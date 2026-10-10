@@ -1,0 +1,15 @@
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\bin\Debug\Griffindo_toys_system.exe.config
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\bin\Debug\Griffindo_toys_system.exe
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\bin\Debug\Griffindo_toys_system.pdb
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.csproj.AssemblyReference.cache
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.Employee_component.resources
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.Form1.resources
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.Homepage_form.resources
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.Login_form.resources
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.Properties.Resources.resources
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.Salary_Component.resources
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.csproj.GenerateResource.cache
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.csproj.CoreCompileInputs.cache
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.exe
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.pdb
+C:\Users\dison\source\repos\Griffindo_toys_system\Griffindo_toys_system\obj\Debug\Griffindo_toys_system.Settings_component.resources
